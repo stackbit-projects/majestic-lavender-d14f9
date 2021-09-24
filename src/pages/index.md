@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: secondary
-    image: images/PXL_20210825_154049341.jpg
+    image: images/IMG_8422.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
